@@ -1,7 +1,8 @@
-.GraphicEngine2D
+/.GraphicEngine2D/
 .venv
 .venv/
 venv/
 .idea/
 __pycache__/
 *.pyc
+/GraphicEngine2D/

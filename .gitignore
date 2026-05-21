@@ -1,0 +1,7 @@
+.GraphicEngine2D
+.venv
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
